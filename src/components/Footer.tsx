@@ -90,13 +90,13 @@ const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
                 <span className="text-sm opacity-70">
-                  123 Industrial Area, Main Boulevard,<br />Lahore, Pakistan
+                  3-A1, Off Airport Road, Opposite Toyota Airport Motors<br />Lahore Cantt, Pakistan
                 </span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-primary flex-shrink-0" />
                 <a href="tel:+923001234567" className="text-sm opacity-70 hover:opacity-100 hover:text-primary transition-all">
-                  0300-1234567
+                  0307-4440347
                 </a>
               </li>
               <li className="flex items-center gap-3">

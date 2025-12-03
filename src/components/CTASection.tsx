@@ -46,13 +46,13 @@ const CTASection = () => {
               </div>
               <div className="text-left">
                 <div className="text-sm opacity-70">24/7 Helpline</div>
-                <div className="font-display text-xl">0300-1234567</div>
+                <div className="font-display text-xl">0307-4440347</div>
               </div>
             </a>
             <div className="hidden sm:block w-px h-12 bg-primary-foreground/20" />
             <div className="text-primary-foreground text-center sm:text-left">
               <div className="text-sm opacity-70">Visit Our Office</div>
-              <div className="font-semibold">123 Industrial Area, Lahore</div>
+              <div className="font-semibold">3-A1, Off Airport Road, Opposite Toyota Airport Motors,<br /> Lahore Cantt, Pakistan</div>
             </div>
           </div>
         </div>

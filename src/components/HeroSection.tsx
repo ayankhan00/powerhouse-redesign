@@ -21,6 +21,18 @@ const HeroSection = () => {
             <span className="w-2 h-2 bg-primary rounded-full animate-pulse" />
             50+ Years of Engineering Excellence
           </div>
+          <div className="inline-flex items-center gap-2 px-4 py-2 ml-4 bg-primary/20 border border-primary/30 text-primary-foreground text-sm font-medium mb-8 animate-fade-in">
+            <span className="w-2 h-2 bg-primary rounded-full animate-pulse" />
+            ISO 9001:2015
+          </div>
+          <div className="inline-flex items-center gap-2 px-4 py-2 ml-4 bg-primary/20 border border-primary/30 text-primary-foreground text-sm font-medium mb-8 animate-fade-in">
+            <span className="w-2 h-2 bg-primary rounded-full animate-pulse" />
+            AEDB Licensed
+          </div>
+          {/* <div className="inline-flex items-center gap-2 px-4 py-2 bg-primary/20 border border-primary/30 text-primary-foreground text-sm font-medium mb-8 animate-fade-in">
+            <span className="w-2 h-2 bg-primary rounded-full animate-pulse" />
+            Perkins Authorized
+          </div> */}
 
           {/* Headline */}
           <h1 className="font-display text-5xl sm:text-6xl md:text-7xl lg:text-8xl text-primary-foreground leading-none mb-6 animate-fade-in animation-delay-200">
